@@ -1,0 +1,26 @@
+{
+  "name": "riskjournal-server",
+  "version": "1.0.0",
+  "description": "Server for the riskjournal-cli, used to exchange computed risk data",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenaschimmel/riskjournal-server.git"
+  },
+  "keywords": [
+    "microcovid",
+    "covid-19",
+    "corona",
+    "coronavirus",
+    "riskjournal"
+  ],
+  "author": "Lena Schimmel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lenaschimmel/riskjournal-server/issues"
+  },
+  "homepage": "https://github.com/lenaschimmel/riskjournal-server#readme"
+}
