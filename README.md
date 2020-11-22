@@ -1,3 +1,5 @@
+_This is part of a multi-repository project. See the [riskjournal repository](https://github.com/lenaschimmel/riskjournal) for a general overview._
+
 <!-- PROJECT LOGO -->
 # RiskJournal Server
 A simple server to work in conjunction with riskjournal-cli.<br/>
