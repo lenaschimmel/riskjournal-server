@@ -86,7 +86,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@lenaschimmel](https://twitter.com/lenaschimmel) - mail@lenaschimmel.de
+Lena Schimmel - [@lenaschimmel](https://twitter.com/lenaschimmel) - mail@lenaschimmel.de
 
 Project Link: [https://github.com/lenaschimmel/riskjournal-server](https://github.com/lenaschimmel/riskjournal-server)
 
